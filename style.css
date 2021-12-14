@@ -1,0 +1,221 @@
+body {
+    background-color: whitesmoke;
+}
+
+
+.logo {
+    background-color: blue;
+}
+.data {
+    background-color:#0275d8;
+}
+.data .data-sekolah {
+    display: inline-flex;
+    margin-top: 1%;
+    margin-left: 25%;
+
+}
+.data .data-sekolah li {
+    margin-left: 30px;
+    list-style-type: none;
+    color: white;
+}
+ 
+@media only screen and (max-width: 1200px) {
+    .data .data-sekolah {
+        display: inline-flex;
+        margin-top: 1%;
+        margin-left: 25%;
+    
+    }
+    .data .data-sekolah li {
+        margin-left: 30px;
+        list-style-type: none;
+        color: white;
+    }
+  }
+
+  @media only screen and (max-width: 992px) {
+    .data .data-sekolah {
+        display: inline-flex;
+        margin-top: 1%;
+        margin-left: 5%;
+    
+    }
+    .data .data-sekolah li {
+        margin-left: 50px;
+        list-style-type: none;
+        color: white;
+    }
+
+  }
+ 
+
+  @media only screen and (max-width: 768px) {
+    .data .data-sekolah {
+        display: inline-flex;
+        margin-top: 1%;
+        margin-left: 5%;
+    
+    }
+    .data .data-sekolah li {
+        margin-left: 15px;
+        list-style-type: none;
+        color: white;
+    }
+
+    .navbar-toggler {
+        margin: auto;
+    }
+
+    
+  } 
+ 
+
+  @media only screen and (max-width: 600px) {
+    .data .data-sekolah {
+        display: inline-flex;
+        margin-top: 1%;
+        margin-left: -50px;
+    
+    }
+    .data .data-sekolah li {
+        margin-left: 5px;
+        list-style-type: none;
+        color: white;
+    }
+
+    .navbar-toggler {
+        margin: auto;
+    }
+
+    
+  } 
+
+
+
+  main .card {
+      margin: auto;
+      margin-top: 30px;
+      box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2); /* this adds the "card" effect */
+      padding: 16px;
+      text-align: center;
+      background-color: white;
+  }
+  
+
+  footer {
+      margin-top: 100px;
+      background-color: #0275d8;
+      color: white;
+  }
+
+  footer a {
+      color: white;
+  }
+  footer ul {
+    margin-top: 25px;
+
+  }
+
+  footer .kolom_1 ul {
+      /* background-color: red; */
+      display: flex;
+      justify-content: center;
+      width:min-content;
+      margin-left: -50px;
+    
+  }
+  footer .kolom_1 ul li {
+      list-style-type: none;
+      margin-left: 10px;
+  }
+
+  footer .kolom_1 ul li a {
+    color: white;
+}
+
+
+footer .kolom_2 {
+    margin-left: -100px;
+}
+
+@media only screen and (max-width: 960px) {
+    
+    footer .kolom_1 ul {
+        /* background-color: red; */
+        display: flex;
+        margin-left: -50px;
+        justify-content: center;
+        width:min-content;
+      
+    }
+
+    footer .kolom_2  {
+       margin: auto;
+    }
+    
+  }
+
+@media only screen and (max-width: 780px) {
+    
+    footer .kolom_1 ul {
+        /* background-color: red; */
+        display: flex;
+        margin-left: 230px;
+        justify-content: center;
+        width:min-content;
+      
+    }
+
+    footer .kolom_2  {
+       margin: auto;
+    }
+    
+  }
+
+
+@media only screen and (max-width: 600px) {
+    
+    footer .kolom_1 ul {
+        /* background-color: red; */
+        display: flex;
+        margin-left: 130px;
+        justify-content: center;
+        width:min-content;
+      
+    }
+
+    footer .kolom_2  {
+       margin: auto;
+    }
+    
+  } 
+
+  @media only screen and (max-width: 400px) {
+    
+    footer .kolom_1 ul {
+        /* background-color: red; */
+        display: flex;
+        margin-left: 75px;
+        justify-content: center;
+        width:min-content;
+      
+    }
+
+    footer .kolom_2  {
+       margin: auto;
+    }
+    
+  } 
+table{
+    width: 75%;
+}
+   table tr th{
+       text-align: center;
+   }
+
+   
+   table tr td{
+    text-align: center;
+}
