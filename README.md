@@ -1,2 +1,1 @@
-![screencapture-file-C-xampp-htdocs-tugas-nih-tugas-web-sarana-html-2021-12-10-16_27_15](https://user-images.githubusercontent.com/55625153/145914738-6edef166-df66-40fb-8ca9-5739a1179d6a.png)
-![screencapture-file-C-xampp-htdocs-tugas-nih-tugas-web-sejarah-html-2021-12-10-16_19_09](https://user-images.githubusercontent.com/55625153/145914701-0ded29ce-e8af-40d4-88ed-f0500db03100.png)
+![screencapture-file-C-xampp-htdocs-tugas-nih-tugas-web-index-html-2021-12-10-16_09_30](https://user-images.githubusercontent.com/55625153/145915170-8748c91b-1ebc-4d22-9b02-02a08d362ec9.png)
